@@ -4,9 +4,11 @@ This repository serves as the official guide on implementing the **BMad (Breakth
 
 The primary objective is to transition from inconsistent, ad-hoc AI prompting to a structured, systematic framework. By leveraging BMad, we aim to transform AI from an unpredictable tool into a specialized, professional team member. This approach will enable us to build higher-quality products with greater speed, consistency, and predictable outcomes.
 
-All instructional materials within this repository are refered from the official **Buildmode blog**: [https://buildmode.dev/blog/](https://buildmode.dev/blog/).
+All instructional materials within this repository are refered and translated from:
 
-BMad Repo: [https://github.com/bmadcode/BMAD-METHOD](https://github.com/bmadcode/BMAD-METHOD)
+**Buildmode blog**: [https://buildmode.dev/blog/](https://buildmode.dev/blog/).
+
+**BMad Repo**: [https://github.com/bmadcode/BMAD-METHOD](https://github.com/bmadcode/BMAD-METHOD)
 
 ## Guides
 
