@@ -6,9 +6,8 @@ The primary objective is to transition from inconsistent, ad-hoc AI prompting to
 
 All instructional materials within this repository are refered and translated from:
 
-**Buildmode blog**: [https://buildmode.dev/blog/](https://buildmode.dev/blog/).
-
-**BMad Repo**: [https://github.com/bmadcode/BMAD-METHOD](https://github.com/bmadcode/BMAD-METHOD)
+- **Buildmode blog**: [https://buildmode.dev/blog/](https://buildmode.dev/blog/).
+- **BMad Repo**: [https://github.com/bmadcode/BMAD-METHOD](https://github.com/bmadcode/BMAD-METHOD)
 
 ## Guides
 
